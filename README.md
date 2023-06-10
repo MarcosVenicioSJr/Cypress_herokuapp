@@ -7,20 +7,31 @@ This project is a test to page http://the-internet.herokuapp.com/ using cypress.
 - [Resources](#resources)
 - [Install](#install)
 - [Use](#use)
-- [Contribution](#contribution)
 - [Lynch](#lynch)
 
 ## Resources
 
 This project use:
  <ul>
+ <li><a href="https://docs.cypress.io/guides/overview/why-cypress"/>Cypress</li>
+  <li><a href="https://www.typescriptlang.org/"/>TypeScript</li>
+  <li><a href="https://nodejs.org/en"/>NodeJs</li>
+  <li><a href="https://code.visualstudio.com/"/>VSCode</li>
  </ul>
 
-## Instalação
+## Install
+First: Dowload itens to resources
 
-Descreva os passos necessários para instalar e configurar o projeto localmente. Inclua dependências e requisitos do sistema, se necessário.
-
-```bash
-$ git clone https://github.com/seu-usuario/seu-projeto.git
-$ cd seu-projeto
+$ git clone https://github.com/MarcosVenicioSJr/Cypress_herokuapp.git
+$ cd cypress
 $ npm install
+$ npx cypress open OR npx cypress run
+
+
+## Use
+
+Click to project herokuap.cy.ts
+![image](https://github.com/MarcosVenicioSJr/Cypress_herokuapp/assets/105061899/d3526ace-bd7a-4c58-9b83-11ee2e57233a)
+
+## Lynch
+MIT
